@@ -264,6 +264,7 @@ header .line {
 @media (max-width: 600px) {
     header .header-text h1 {
         font-size: 1.4rem;
+        text-align: center
     }
 }
 /** BAR **/

@@ -1,6 +1,6 @@
 # Cabin-Website
 
-### Live Site: https://thecabinexpo.netlify.app/#links
+### Live Site: https://thecabinexpo.netlify.app/
 
 ### Project Description: Personal
 ### Programs Used: HTML, CSS, and JavaScript

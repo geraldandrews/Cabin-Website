@@ -48,6 +48,7 @@ body {
         flex-direction: column;
         justify-content: center;
         align-items: center;
+        padding: 15px 0;
     }
 
     .contact-info .contact-container {

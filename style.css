@@ -57,7 +57,9 @@ body {
 
     .contact-info .contact-container {
         display: flex;
+        justify-content: space-between;
     }
+}
 
     .contact-method {
         margin: 0;

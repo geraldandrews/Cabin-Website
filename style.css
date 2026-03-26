@@ -19,7 +19,6 @@ body {
 .contact-info {
     background: #355e3b;
     display: flex;
-    flex-direction: column;
     padding: 10px 0;
     color: #fff;
 }

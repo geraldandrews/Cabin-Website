@@ -24,10 +24,6 @@ body {
     color: #fff;
 }
 
-.contact-info .contact-method:nth-child(2) {
-    margin-top: 15px;
-}
-
 .contact-info .contact-method {
     display: flex;
     margin: 5px 20px;

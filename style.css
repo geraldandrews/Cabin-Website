@@ -52,6 +52,7 @@ body {
 @media (max-width: 600px) {
     .contact-info {
         flex-direction: column;
+        justify-content: center;
     }
 }
 

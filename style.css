@@ -49,6 +49,12 @@ body {
     margin: 0 auto;
 }
 
+@media (max-width: 600px) {
+    .contact-info {
+        flex-direction: column;
+    }
+}
+
 /** NAVBAR **/
 .main-navbar {
     background-color: #ffffff;

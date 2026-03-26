@@ -54,6 +54,10 @@ body {
         display: flex;
         justify-content: space-between;
     }
+
+    .contact-info .social-icons {
+        margin-top: 8px;
+    }
 }
 
     .contact-method {

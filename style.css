@@ -24,7 +24,6 @@ body {
 }
 
 .contact-info .contact-method {
-    display: flex;
     margin: 5px 20px;
 }
 
@@ -58,6 +57,10 @@ body {
 
     .contact-info .contact-container {
         display: flex;
+    }
+
+    .contact-method {
+        margin: 0;
     }
 }
 
